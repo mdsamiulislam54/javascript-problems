@@ -9,6 +9,7 @@
 ## 📝 Problem List
  **Basic Problems**  
  1. Find Maximum Number → basic-problems/problem1.js
+ 2. Find the Second Largest Element in an Array > BasicProblem/problem2.js
 
 **Intermediate Problems**
 

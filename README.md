@@ -1,6 +1,6 @@
 # JavaScript Problem Solving
 ## 🚀 How to Use
-1. git clone https://github.com/
+1. git clone https://github.com/mdsamiulislam54/javascript-problems.git
 2. open terminal 
 3. run the following command
 

@@ -13,6 +13,8 @@
  3. String repaet > BasicProblem/problem3.js
  4. Write a function that accepts a non-negative integer n and a string s as parameters, and returns a string of s repeated exactly n times. > BasicProblem/problem4.js
  5. Bit Counting > BasicProblem/problem5.js
+ 6. squareDigits > BasicProblem/problem6.js
+ 7. Number of People in the Bus > BasicProblem/problem7.js
 
 
 **Intermediate Problems**

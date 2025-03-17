@@ -14,10 +14,10 @@
 var number = function(busStops){
     let passengers = 0;
     busStops.forEach((stops)=>{
-        passengers += stops[0]-busStops[1];
+        passengers += stops[0]
         passengers -= stops[1];
     })
     return passengers;
   }
 
-  console.log(number([[10,0],[3,5],[5,8]]));
+ 

@@ -16,6 +16,8 @@
  6. squareDigits > BasicProblem/problem6.js
  7. Number of People in the Bus > BasicProblem/problem7.js
  8. Extract the domain name from a URL > BasicProblem/problem9.js
+ 9. 00000
+ 10. Series Sum Calculation with Correct Formula > BasicProblem/problem10.js
 
 
 **Intermediate Problems**

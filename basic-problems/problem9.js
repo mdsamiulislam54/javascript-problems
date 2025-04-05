@@ -13,3 +13,9 @@ function getDomainName(url) {
     .split(".")[0];
 }
 
+
+// const arr = ['apple','banana','qukambar','piyara']
+// for(let i = 0; i < arr.length; i++){
+//   console.table(arr[i])
+// }
+

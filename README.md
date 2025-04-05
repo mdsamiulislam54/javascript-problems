@@ -19,6 +19,7 @@
  9. 00000
  10. Series Sum Calculation with Correct Formula > BasicProblem/problem10.js
  11. Reverse Long Words in Sentence > BasicProblem/problem11.js
+ 12. Bouncing Balls > BasicProblem/problem12.js
 
 
 **Intermediate Problems**
